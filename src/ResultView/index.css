@@ -1,0 +1,30 @@
+.results-main-C {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Bree Serif';
+}
+
+.images-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.image-styles-ResultView {
+  width: 180px;
+  height: 180px;
+}
+
+.verdict-container {
+  align-self: center;
+}
+
+.play-again-button {
+  background-color: #ffffff;
+  color: #223a5f;
+  font-family: 'Bree Serif';
+  border: none;
+  padding: 9px;
+  border-radius: 6px;
+  cursor: pointer;
+}
